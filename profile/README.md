@@ -14,6 +14,10 @@ We're aiming for a machine that’s:
 - 🧩 Modular and hackable
 - 🎓 Great for learning, experimenting, and real work
 
+## Project Logs on YouTube
+
+[![](https://github.com/OpenEDM/.github/blob/main/images/youtube_playlist_thumbnails.jpg)](https://www.youtube.com/@OpenEDM)
+
 ## Our Repositories
 
 This GitHub organization includes:
@@ -21,14 +25,6 @@ This GitHub organization includes:
 - [`wire-edm-machine`](https://github.com/OpenEDM/wire-edm-machine) — Wire EDM machine (mechanical design)
 - [`arc-generator`](https://github.com/OpenEDM/arc-generator) — Arc generator (hardware design and firmware)
 - [`wire-tensioner`](https://github.com/OpenEDM/wire-tensioner) — Wire tensioning mechanism (hardware design and firmware)
-
-## Follow Along on YouTube
-
-We’re documenting our progress and tests on YouTube:
-
-[youtube.com/@OpenEDM](https://www.youtube.com/@OpenEDM)
-
-Subscribe to stay up to date -- or just to see sparks fly ⚡
 
 ## Get Involved
 
