@@ -26,7 +26,7 @@ We’re documenting our progress and tests on YouTube:
 
 [youtube.com/@OpenEDM](https://www.youtube.com/@OpenEDM)
 
-Subscribe to stay up to date — or just to see sparks fly ⚡
+Subscribe to stay up to date -- or just to see sparks fly ⚡
 
 ## Get Involved
 
