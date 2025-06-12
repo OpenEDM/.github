@@ -17,7 +17,7 @@ We're aiming for a machine that’s:
 This GitHub organization includes:
 
 - [`wire-edm-machine`](https://github.com/OpenEDM/wire-edm-machine) — Wire EDM machine (mechanical design)
-- [`arc-generator`](https://github.com/OpenEDM/arc-generator) — Arc generator (hardware design and firmware) for generating the EDM electrical arcs
+- [`arc-generator`](https://github.com/OpenEDM/arc-generator) — Arc generator (hardware design and firmware)
 - [`wire-tensioner`](https://github.com/OpenEDM/wire-tensioner) — Wire tensioning mechanism (hardware design and firmware)
 
 ## Follow Along on YouTube
