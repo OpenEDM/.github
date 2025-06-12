@@ -30,7 +30,7 @@ Subscribe to stay up to date -- or just to see sparks fly ⚡
 
 ## Get Involved
 
-We’d love your help! Whether you’re into mechanical/hardware design, coding, testing, documenting, or just cheering from the sidelines — everyone’s welcome.
+We’d love your help! Whether you’re into mechanical/hardware design, coding, testing, documenting, or just cheering from the sidelines -- everyone’s welcome.
 
 Ways to contribute:
 
