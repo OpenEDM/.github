@@ -6,13 +6,26 @@ Welcome to **OpenEDM** -- an open-source desktop EDM ([Electrical Discharge Mach
 
 ## What We're Building
 
-**OpenEDM** is all about creating a compact, affordable EDM machine that anyone can build, modify, and use -- whether you're a hobbyist, engineer, student, or just curious.
+**OpenEDM** is all about creating a compact, affordable EDM machines that anyone can build, modify, and use -- whether you're a hobbyist, engineer, student, or just curious.
 
-We're aiming for a machine that’s:
+We're aiming for a design that’s:
 
-- 🛠️ Easy(ish) to build at home
-- 🧩 Modular and hackable
-- 🎓 Great for learning, experimenting, and real work
+- Easy(ish) to build at home
+- Modular and hackable
+- Great for learning, experimenting, and real work
+
+## Advantages of EDM Over Traditional Machining
+
+EDM offers some clear advantages over traditional metalworking methods like CNC milling, especially if you're working in places that aren’t exactly machine-shop friendly -- like your apartment:
+
+- **Whisper-quiet** -- No loud spindles or cutting noise. EDM runs almost silently.
+- **No flying chips** -- Instead of cutting, EDM erodes material using electric sparks, so you don’t get metal shavings everywhere. Just some sediment in the fluid.
+- **Home-friendly** -- Because it's quiet and clean, EDM is much more suitable for indoor use than traditional machining.
+- **Very precise** -- EDM handles fine details and sharp internal corners.
+- **No mechanical forces** -- Slow, contactless cutting means the machine doesn’t need a very rigid frame, making it simpler and cheaper to build.
+- **Works on any conductive material** -- Hardened tool steel, titanium, tungsten carbide -- EDM cuts them all.
+
+Sure, EDM is slower than milling or turning. But in return, you get clean results, minimal noise, and a workspace that doesn’t look like a metal storm just passed through.
 
 ## Project Logs on YouTube
 
@@ -22,9 +35,9 @@ We're aiming for a machine that’s:
 
 This GitHub organization includes:
 
-- [`wire-edm-machine`](https://github.com/OpenEDM/wire-edm-machine) — Wire EDM machine (mechanical design)
-- [`arc-generator`](https://github.com/OpenEDM/arc-generator) — Arc generator (hardware design and firmware)
-- [`wire-tensioner`](https://github.com/OpenEDM/wire-tensioner) — Wire tensioning mechanism (hardware design and firmware)
+- [`wire-edm-machine`](https://github.com/OpenEDM/wire-edm-machine) -- Wire EDM machine (mechanical design)
+- [`arc-generator`](https://github.com/OpenEDM/arc-generator)-- Arc generator (hardware design and firmware)
+- [`wire-tensioner`](https://github.com/OpenEDM/wire-tensioner) -- Wire tensioning mechanism (hardware design and firmware)
 
 ## Get Involved
 
