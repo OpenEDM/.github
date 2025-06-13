@@ -19,7 +19,7 @@ We're aiming for a design that’s:
 EDM offers some clear advantages over traditional metalworking methods like CNC milling, especially if you're working in places that aren’t exactly machine-shop friendly -- like your apartment:
 
 - **Whisper-quiet** -- No loud spindles or cutting noise. EDM runs almost silently.
-- **No flying chips** -- Instead of cutting, EDM erodes material using electric sparks, so you don’t get metal shavings everywhere. Just some sediment in the fluid.
+- **No flying chips** -- Instead of cutting, EDM erodes material using electric sparks, so you don’t get metal shavings everywhere. Just a small amount of metal particles in the water.
 - **Home-friendly** -- Because it's quiet and clean, EDM is much more suitable for indoor use than traditional machining.
 - **Very precise** -- EDM handles fine details and sharp internal corners.
 - **No mechanical forces** -- Slow, contactless cutting means the machine doesn’t need a very rigid frame, making it simpler and cheaper to build.
