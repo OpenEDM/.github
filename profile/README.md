@@ -1,6 +1,6 @@
 # OpenEDM
 
-Welcome to **OpenEDM** -- an open-source desktop EDM ([Electrical Discharge Machining](https://en.wikipedia.org/wiki/Electrical_discharge_machining)) project built by makers, for makers. If you've ever wanted to create your own precision **metalworking** machine or explore the world of EDM, you're in the right place.
+Welcome to **OpenEDM** -- an open-source desktop EDM ([Electrical Discharge Machining](https://en.wikipedia.org/wiki/Electrical_discharge_machining)) project built by makers, for makers. If you've ever wanted to create your own precision **metalworking machine** suitable for **home use** or just explore the world of EDM, you're in the right place.
 
 ![](https://github.com/OpenEDM/.github/blob/main/images/wire_edm_machine.jpg)
 
