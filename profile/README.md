@@ -38,9 +38,9 @@ Sure, EDM is slower than milling or turning. But in return, you get clean result
 
 This GitHub organization includes:
 
-- [`wire-edm-machine`](https://github.com/OpenEDM/wire-edm-machine) -- Wire EDM machine (mechanical design)
-- [`arc-generator`](https://github.com/OpenEDM/arc-generator)-- Arc generator (hardware design and firmware)
-- [`wire-tensioner`](https://github.com/OpenEDM/wire-tensioner) -- Wire tensioning mechanism (hardware design and firmware)
+- [`OpenEDM-wire-machine`](https://github.com/OpenEDM/OpenEDM-wire-machine) -- Wire EDM machine (mechanical design)
+- [`OpenEDM-arc-generator`](https://github.com/OpenEDM/OpenEDM-arc-generator)-- Arc generator (hardware design and firmware)
+- [`OpenEDM-wire-tensioner`](https://github.com/OpenEDM/OpenEDM-wire-tensioner) -- Wire tensioning mechanism (hardware design and firmware)
 
 ## Get Involved
 
