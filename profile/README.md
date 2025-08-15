@@ -1,5 +1,11 @@
 # OpenEDM
 
+## ⚠️ Safety Warning & Disclaimer
+
+THIS PROJECT INVOLVES LETHAL VOLTAGES AND OTHER SERIOUS HAZARDS THAT CAN CAUSE SEVERE INJURY OR DEATH. YOU MUST READ THE FULL [SAFETY WARNING AND DISCLAIMER DOCUMENT](https://github.com/OpenEDM/.github/blob/main/docs/SAFETY_WARNING_AND_DISCLAIMER.md) BEFORE USING ANY PROJECT FILES. BY PROCEEDING, YOU ACKNOWLEDGE AND ACCEPT ALL RISKS, AND AGREE TO USE THIS PROJECT ENTIRELY AT YOUR OWN RISK.
+
+## Intro
+
 Welcome to **OpenEDM** -- an open-source desktop EDM ([Electrical Discharge Machining](https://en.wikipedia.org/wiki/Electrical_discharge_machining)) project built by makers, for makers. If you've ever wanted to create your own precision **metalworking machine** suitable for **home use** or just explore the world of EDM, you're in the right place.
 
 ![](https://github.com/OpenEDM/.github/blob/main/images/wire_edm_machine.jpg)
