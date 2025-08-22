@@ -52,9 +52,9 @@ This GitHub organization includes:
 
 We’d love your help! Whether you’re into mechanical/hardware design, coding, testing, documenting, or just cheering from the sidelines -- everyone’s welcome.
 
-Ways to contribute:
+Here’s where you can ask questions, share your ideas, contribute, or connect with the community:
 
-- TODO
+- [Join the Discord](https://discord.gg/wSZcMPfTdV)
 
 ## Roadmap
 
