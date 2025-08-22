@@ -54,7 +54,9 @@ We’d love your help! Whether you’re into mechanical/hardware design, coding,
 
 Here’s where you can ask questions, share your ideas, contribute, or connect with the community:
 
-- [Join the Discord](https://discord.gg/wSZcMPfTdV)
+- Join the [OpenEDM Discord server](https://discord.gg/wSZcMPfTdV).
+- You can [start a discussion directly on GitHub](https://github.com/orgs/OpenEDM/discussions).
+- You can open an issue in any OpenEDM's repository or send a PR.
 
 ## Roadmap
 
