@@ -1,9 +1,5 @@
 # OpenEDM
 
-## ⚠️ Safety Warning & Disclaimer
-
-THIS PROJECT INVOLVES LETHAL VOLTAGES AND OTHER SERIOUS HAZARDS THAT CAN CAUSE SEVERE INJURY OR DEATH. YOU MUST READ THE FULL [SAFETY WARNING AND DISCLAIMER DOCUMENT](https://github.com/OpenEDM/.github/blob/main/docs/SAFETY_WARNING_AND_DISCLAIMER.md) BEFORE USING ANY PROJECT FILES. BY PROCEEDING, YOU ACKNOWLEDGE AND ACCEPT ALL RISKS AND AGREE TO USE THIS PROJECT ENTIRELY AT YOUR OWN RESPONSIBILITY.
-
 ## Intro
 
 Welcome to **OpenEDM** -- an open-source desktop EDM ([Electrical Discharge Machining](https://en.wikipedia.org/wiki/Electrical_discharge_machining)) project built by makers, for makers. If you've ever wanted to create your own precision **metalworking machine** suitable for **home use** or just explore the world of EDM, you're in the right place.
@@ -60,4 +56,20 @@ Here’s where you can ask questions, share your ideas, contribute, or connect w
 
 ## Roadmap
 
-TODO
+- **Now**:
+  1. Preparing to test the arc generator V2.
+  2. Working on the overall system architecture. The current idea is to divide the system into modules that communicate with each other via CAN bus and CANopen.
+  3. Working on a dedicated stepper-motor-based servo design, controlled via CAN bus and CANopen.
+- **March 2025**:
+  1. First successful wire cut (wire EDM).
+  2. Arc generator design V2.0 completed.
+- **February 2025**:
+  1. Wire tensioning mechanism design completed.
+- **April 2024**:
+  1. First successful cut using a plate-shaped electrode (sinking EDM).
+- **April 2023**:
+  1. Project started.
+
+## ⚠️ Safety Warning & Disclaimer
+
+THIS PROJECT INVOLVES LETHAL VOLTAGES AND OTHER SERIOUS HAZARDS THAT CAN CAUSE SEVERE INJURY OR DEATH. YOU MUST READ THE FULL [SAFETY WARNING AND DISCLAIMER DOCUMENT](https://github.com/OpenEDM/.github/blob/main/docs/SAFETY_WARNING_AND_DISCLAIMER.md) BEFORE USING ANY PROJECT FILES. BY PROCEEDING, YOU ACKNOWLEDGE AND ACCEPT ALL RISKS AND AGREE TO USE THIS PROJECT ENTIRELY AT YOUR OWN RESPONSIBILITY.
