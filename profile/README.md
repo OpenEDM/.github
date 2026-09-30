@@ -42,6 +42,21 @@ This GitHub organization includes:
 - [`OpenEDM-arc-generator`](https://github.com/OpenEDM/OpenEDM-arc-generator)-- Arc generator (hardware design and firmware).
 - [`OpenEDM-wire-tensioner`](https://github.com/OpenEDM/OpenEDM-wire-tensioner) -- Wire tensioning mechanism (hardware design and firmware).
 
+## Contributors
+
+<!-- contributors:start -->
+
+<p>
+<a href="https://github.com/MartinBonfiore"><img src="../images/contributor-cards/martinbonfiore-0d8f31a2.svg" width="160" height="144" alt="MartinBonfiore"></a>
+<a href="https://github.com/sergey-worm"><img src="../images/contributor-cards/sergey-worm-00a01630.svg" width="160" height="144" alt="sergey-worm"></a>
+<a href="https://github.com/dVNaNt"><img src="../images/contributor-cards/dvnant-74f99594.svg" width="160" height="144" alt="dVNaNt"></a>
+<a href="https://trigmic.com/en/contact-us/"><img src="../images/contributor-cards/ilya-mudrenov-https-trigmic-com-en-contact-us-48614767.svg" width="160" height="144" alt="Ilya Mudrenov"></a>
+<a href="https://github.com/nico-schluter"><img src="../images/contributor-cards/nico-schluter-8544612c.svg" width="160" height="144" alt="nico-schluter"></a>
+<a href="https://github.com/romixlab"><img src="../images/contributor-cards/romixlab-6472f629.svg" width="160" height="144" alt="romixlab"></a>
+</p>
+
+<!-- contributors:end -->
+
 ## Get Involved
 
 We’d love your help! Whether you’re into mechanical/hardware design, coding, testing, documenting, or just cheering from the sidelines -- everyone’s welcome.
