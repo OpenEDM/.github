@@ -52,6 +52,15 @@ Here’s where you can ask questions, share your ideas, contribute, or connect w
 - [Start a discussion directly on GitHub](https://github.com/orgs/OpenEDM/discussions).
 - Open an issue in any OpenEDM's repository or send a PR.
 
+## Contributors
+
+- [MartinBonfiore](https://github.com/MartinBonfiore)
+- [dVNaNt](https://github.com/dVNaNt)
+- [nico-schluter](https://github.com/nico-schluter)
+- [sergey-worm](https://github.com/sergey-worm)
+- [Ilya Mudrenov](https://trigmic.com/en/contact-us/)
+- [romixlab](https://github.com/romixlab)
+
 ## Roadmap
 
 - **Now**:
