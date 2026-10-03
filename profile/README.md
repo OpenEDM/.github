@@ -54,6 +54,8 @@ Here’s where you can ask questions, share your ideas, contribute, or connect w
 
 ## Contributors
 
+Huge thanks to everyone who contributed to this project! Here are all these wonderful people:
+
 - [MartinBonfiore](https://github.com/MartinBonfiore)
 - [dVNaNt](https://github.com/dVNaNt)
 - [nico-schluter](https://github.com/nico-schluter)
